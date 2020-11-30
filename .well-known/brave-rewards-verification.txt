@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: discordmexico.ga
+Token: 8defac0b13dbdf5b8e97ae84181c997d4d79ca2de31a0357eccc8b0cde42fcff
